@@ -12,3 +12,6 @@ Results:
 - https://github.com/ultralytics/yolov5
 - https://github.com/HanGuangXin/ByteTrack_ReID
 
+## Authors
+- [Roman Yushchev](https://github.com/r0mz32)
+- [Ivan Solodovnikov](https://github.com/vagagabun)
