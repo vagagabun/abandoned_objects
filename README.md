@@ -15,6 +15,7 @@ Results:
 ### References
 - https://github.com/ultralytics/yolov5
 - https://github.com/HanGuangXin/ByteTrack_ReID
+- https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-track-football-players.ipynb
 
 ## Authors
 - [Roman Yushchev](https://github.com/r0mz32)
